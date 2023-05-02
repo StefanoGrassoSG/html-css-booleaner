@@ -12,7 +12,9 @@
     bottom: 10px;
     left: 10px;
 }
+/*Header*/
 
+/*main*/
 .container-content {
     width: 90%;
     margin: auto;
@@ -48,9 +50,6 @@ h1 {
 .tim-photo-second {
     background-image: url('../img/img/tim-2.jpg');
 }
-/*Header*/
-
-/*main*/
 
 main p  {
     font-size: 25px;
