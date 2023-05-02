@@ -1,6 +1,6 @@
 /*Header*/
 .container-logo {
-    background-image: url('img/img/pattern.png');
+    background-image: url('../img/img/pattern.png');
     background-color: rgb(62, 117, 181);
     height: 150px;
     position: relative;
@@ -11,6 +11,11 @@
     position: absolute;
     bottom: 10px;
     left: 10px;
+}
+
+.container-content {
+    width: 90%;
+    margin: auto;
 }
 
 h1 {
@@ -37,11 +42,11 @@ h1 {
 }
 
 .tim-photo-first {
-    background-image: url('img/img/tim-1.jpg');
+    background-image: url('../img/img/tim-1.jpg');
 }
 
 .tim-photo-second {
-    background-image: url('img/img/tim-2.jpg');
+    background-image: url('../img/img/tim-2.jpg');
 }
 /*Header*/
 
@@ -87,6 +92,7 @@ tbody tr {
 .white-row {
     background-color: white;
 }
+/*main*/
 
 /*footer*/
 
@@ -106,13 +112,13 @@ footer {
 }
 
 .pc-photo {
-    background-image: url(img/img/monitor.jpg);
+    background-image: url(../img/img/monitor.jpg);
     margin-top: 10px;
     margin-bottom: 10px;
 }
 
 .graph-photo {
-    background-image: url(img/img/graph.jpg);
+    background-image: url(../img/img/graph.jpg);
 }
 
 .photo-link-1 {
@@ -128,9 +134,4 @@ footer {
     top: 10px;
     left: 10px;
 }
-
-
-
-
-
-
+/*footer*/
