@@ -1,0 +1,46 @@
+/*Header*/
+.container-logo {
+    background-image: url('img/img/pattern.png');
+    background-color: rgb(62, 117, 181);
+    height: 150px;
+    position: relative;
+}
+
+.logo {
+    width: 10%;
+    position: absolute;
+    bottom: 10px;
+    left: 10px;
+}
+
+h1 {
+    font-size:50px;
+    margin-bottom: 0;
+}
+
+.title .info-title {
+    color: rgba(0, 0, 0, 0.5)
+}
+
+.booleaner {
+    color: #0cabef;
+}
+
+.tim-photo-first, .tim-photo-second {
+    margin-top: 20px;
+    width: 48%;
+    height: 700px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    display: inline-block;
+}
+
+.tim-photo-first {
+    background-image: url('img/img/tim-1.jpg');
+}
+
+.tim-photo-second {
+    background-image: url('img/img/tim-2.jpg');
+}
+/*Header*/
+
